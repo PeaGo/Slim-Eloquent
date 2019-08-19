@@ -7,4 +7,4 @@ intergration Eloquent into Slim3 framework
 # Usage
 
   $ composer install 
-Run project with local server (ex : Xampp, ...)
+- Run project with local server (ex : Xampp, ...)
